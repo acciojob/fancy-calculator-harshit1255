@@ -2,4 +2,4 @@
 let n = Number(prompt());
 n*=2;
 let m = Number(prompt());
-alert(`${n+m}`);
+alert(`The final result is: ${n+m}`);
